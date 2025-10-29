@@ -47,14 +47,6 @@ A full-stack web application for managing emergency ambulance services, built wi
 - **bcryptjs** - Password hashing
 - **CORS** - Cross-origin resource sharing
 
-## 📸 Screenshots
-
-*(Add your screenshots here)*
-<!-- 
-![Home Page](screenshots/home.png)
-![Dashboard](screenshots/dashboard.png)
-![Booking Form](screenshots/booking.png) 
--->
 
 ## 🚀 Quick Start
 
@@ -69,3 +61,5 @@ A full-stack web application for managing emergency ambulance services, built wi
    ```bash
    git clone https://github.com/kancherlaabayudhay/ambulance-system.git
    cd ambulance-system
+### LICENSE
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
