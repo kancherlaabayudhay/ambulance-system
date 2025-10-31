@@ -1,3 +1,4 @@
+import api from './api';  // This should work if files are in same directory
 export const authService = {
   login: async (email, password) => {
     console.log('📡 Sending login request to backend');
